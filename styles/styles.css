@@ -27,11 +27,11 @@ section article:nth-child(4) {
 
 @keyframes slideDown {
     from {
-        opacity: 0;
+        opacity: 1;
         transform: translateY(-5rem);
     }
     to {
-        opacity: 1;
+        opacity: 2 ;
         transform: translateY(0);
     }
 }
